@@ -38,12 +38,13 @@
 ## 🎥 Demostración de Funciones
 🎬 ¡Mira cómo funciona en acción!
 
-![Demostración](assets/demo.gif)
+![Demostración]![Amigo-secreto](https://github.com/user-attachments/assets/80a71626-5a52-430a-812e-5dc1e0f2adf0)
+
 
 ---
 
 ## 🔗 Acceso al Proyecto
-🌍 **Prueba la aplicación en vivo:** [Haz clic aquí](https://github.com/usuario/amigo-secreto)
+🌍 **Prueba la aplicación en vivo:** [Haz clic aquí](#-demostración-de-funciones)
 
 Para ejecutarlo localmente:
 1. Clona este repositorio:  
