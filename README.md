@@ -3,7 +3,6 @@
 ![Portada](assets/amigo-secreto.png)
 
 [![Estado del Proyecto](https://img.shields.io/badge/Estado-En%20desarrollo-yellow)](https://github.com/usuario/amigo-secreto)
-[![Licencia](https://img.shields.io/badge/Licencia-MIT-blue)](LICENSE)
 
 ---
 
