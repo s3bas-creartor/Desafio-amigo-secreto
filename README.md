@@ -1,6 +1,7 @@
 # 🎉 ¡Bienvenido a Amigo Secreto! 🎉
 
-![Portada](assets/amigo-secreto.png)
+![Portada]![amigo-secreto](https://github.com/user-attachments/assets/d2d32776-bd24-4a11-937c-91d99e0478a8)
+
 
 [![Estado del Proyecto](https://img.shields.io/badge/Estado-En%20desarrollo-yellow)](https://github.com/s3bas-creartor/Desafio-amigo-secreto)
 
