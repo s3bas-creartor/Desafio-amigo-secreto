@@ -57,9 +57,9 @@ Para ejecutarlo localmente:
 
 ## 🛠️ Tecnologías Utilizadas
 🚀 **Tecnologías que hacen esto posible:**
-- 🎨 **HTML5** → Para la estructura de la aplicación.
-- 🎭 **CSS3** → Para darle estilo y una experiencia visual atractiva.
-- 🧠 **JavaScript (ES6)** → Para la magia detrás del sorteo y la interactividad.
+- 🎨 **HTML** → Para la estructura de la aplicación.
+- 🎭 **CSS** → Para darle estilo y una experiencia visual atractiva.
+- 🧠 **JavaScript** → Para la magia detrás del sorteo y la interactividad.
 
 ---
 
@@ -72,7 +72,7 @@ Para ejecutarlo localmente:
 
 ## 💡 Desarrolladores
 👨‍💻 **Proyecto desarrollado por:**
-- [Tu Nombre](https://github.com/usuario) 🚀
+- [Sebastian Piamonte](https://github.com/usuario) 🚀
 
 Si tienes ideas o mejoras, ¡contáctame!
 
