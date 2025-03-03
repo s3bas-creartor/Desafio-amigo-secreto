@@ -2,7 +2,7 @@
 
 ![Portada](assets/amigo-secreto.png)
 
-[![Estado del Proyecto](https://img.shields.io/badge/Estado-En%20desarrollo-yellow)](https://github.com/usuario/amigo-secreto)
+[![Estado del Proyecto](https://img.shields.io/badge/Estado-En%20desarrollo-yellow)](https://github.com/s3bas-creartor/Desafio-amigo-secreto)
 
 ---
 
